@@ -1,0 +1,7 @@
+{
+  "name": "infoed",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "Ai Travel",
+  "enablePullDownRefresh": true,
+  "navigationStyle": "custom",
+  "usingComponents": {}
+}

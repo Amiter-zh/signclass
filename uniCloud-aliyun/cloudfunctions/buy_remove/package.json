@@ -1,0 +1,7 @@
+{
+  "name": "buy_remove",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

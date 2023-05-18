@@ -1,0 +1,72 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+.cart-title {
+  height: 40px;
+  display: flex;
+  align-items: center;
+  font-size: 14px;
+  padding-left: 5px;
+  border: 1px solid #efefef;
+}
+.cart-title .cart_t_text {
+  margin-left: 10px;
+  justify-content: center;
+}
+.cart-container {
+  padding-bottom: 50px;
+}
+.empty-cart {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 150px;
+  justify-content: center;
+}
+.empty-cart .eimg {
+  width: 120px;
+  height: 120px;
+}
+.empty-cart .etet {
+  font-size: 12px;
+  color: gray;
+  margin-top: 15px;
+}
+.scen_item {
+  height: 250rpx;
+  display: flex;
+  padding: 10px 5px;
+  border-bottom: 1px solid #f0f0f0;
+  width: 750rpx;
+  box-sizing: border-box;
+  border-bottom: #cfcfcf solid 1rpx;
+}
+.scen_item .scen_left {
+  margin: 5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.scen_item .scen_left .scens_pic {
+  width: 300rpx;
+  height: 200rpx;
+  display: block;
+}
+.scen_item .scen_right {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.scen_item .scen_right .scen_name {
+  font-size: 32rpx;
+}
+.scen_item .scen_right .scen_info_box {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.scen_item .scen_right .scen_info_box .scen_price {
+  font-size: 16px;
+  color: #c00000;
+}
+

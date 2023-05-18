@@ -1,0 +1,7 @@
+{
+  "name": "scenrec_list",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

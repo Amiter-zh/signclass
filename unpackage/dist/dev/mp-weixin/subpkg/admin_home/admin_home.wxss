@@ -1,0 +1,31 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+.home {
+  background-color: #e6e6e6;
+}
+.but {
+  background-color: #fff;
+  box-sizing: border-box;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-top: 10rpx;
+  margin-top: 30rpx;
+}
+.but .item {
+  padding: 10rpx 10rpx;
+  height: 80rpx;
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1rpx solid #e5e5e5;
+}
+.but .item .content {
+  font-size: 36rpx;
+  justify-content: center;
+}
+.but .item .content .text-black {
+  padding-left: 10rpx;
+}
+

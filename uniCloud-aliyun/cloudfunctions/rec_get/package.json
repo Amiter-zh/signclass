@@ -1,0 +1,7 @@
+{
+  "name": "rec_get",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

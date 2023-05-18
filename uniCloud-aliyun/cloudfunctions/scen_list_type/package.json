@@ -1,0 +1,7 @@
+{
+  "name": "scen_list_type",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

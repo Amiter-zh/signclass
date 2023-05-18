@@ -1,0 +1,7 @@
+{
+  "name": "scen_detail",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

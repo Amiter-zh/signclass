@@ -1,0 +1,77 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/star/star",
+    "pages/cate/cate",
+    "pages/introduction/introduction",
+    "pages/my/my"
+  ],
+  "subPackages": [
+    {
+      "root": "subpkg",
+      "pages": [
+        "scen_detail/scen_detail",
+        "search/search",
+        "serachintr/serachintr",
+        "scen_inro/scen_inro",
+        "cart/cart",
+        "admin_home/admin_home",
+        "admincart/admincart",
+        "adminarticle/adminarticle",
+        "adminscen/adminscen",
+        "adscen_detail/adscen_detail",
+        "addscen/addscen",
+        "addintr/addintr",
+        "adscenedit/adscenedit",
+        "addint/addint",
+        "ad_inro/ad_inro",
+        "intoedit/intoedit"
+      ]
+    }
+  ],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "Ai Travel",
+    "navigationBarBackgroundColor": "#00C176",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "custom": false,
+    "backgroundColor": "#FFFFFF",
+    "color": "#999999",
+    "selectedColor": "#00C176",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "static/image/tabbar/home.png",
+        "selectedIconPath": "static/image/tabbar/home_cur.png"
+      },
+      {
+        "pagePath": "pages/cate/cate",
+        "text": "景点",
+        "iconPath": "static/image/tabbar/jing.png",
+        "selectedIconPath": "static/image/tabbar/jing_cur.png"
+      },
+      {
+        "pagePath": "pages/introduction/introduction",
+        "text": "攻略",
+        "iconPath": "static/image/tabbar/gong.png",
+        "selectedIconPath": "static/image/tabbar/gong_cur.png"
+      },
+      {
+        "pagePath": "pages/star/star",
+        "text": "收藏",
+        "iconPath": "static/image/tabbar/service.png",
+        "selectedIconPath": "static/image/tabbar/service_cur.png"
+      },
+      {
+        "pagePath": "pages/my/my",
+        "text": "我的",
+        "iconPath": "static/image/tabbar/my.png",
+        "selectedIconPath": "static/image/tabbar/my_cur.png"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

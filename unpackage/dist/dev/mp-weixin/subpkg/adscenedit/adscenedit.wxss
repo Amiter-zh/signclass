@@ -1,0 +1,24 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+.add {
+  padding-bottom: 20rpx;
+}
+.add .item {
+  padding: 10rpx 10rpx;
+}
+.add .item input,
+.add .item textarea {
+  border: 1rpx solid #ccc;
+  height: 70rpx;
+  padding: 0 20rpx;
+  box-sizing: border-box;
+}
+.add .item textarea {
+  height: 200rpx;
+  width: 100%;
+}
+.add .item bottom {
+  margin-bottom: 20rpx;
+}
+

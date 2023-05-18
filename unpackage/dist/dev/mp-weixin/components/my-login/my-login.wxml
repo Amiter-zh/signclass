@@ -1,0 +1,1 @@
+<view class="login-container"><image src="../../static/image/tabbar/my_cur.png"></image><button class="btn-login" type="primary" data-event-opts="{{[['tap',[['getUserProfile',['$event']]]]]}}" bindtap="__e">微信一键登录</button><view class="tips-text">马上登录~尽享更多权益</view></view>

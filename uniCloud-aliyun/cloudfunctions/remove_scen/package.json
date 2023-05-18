@@ -1,0 +1,7 @@
+{
+  "name": "remove_scen",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

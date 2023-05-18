@@ -1,0 +1,514 @@
+{
+    "article": {
+        "data": [
+            {
+                "_id": {
+                    "$oid": "64531625e1a35c371bc60f3f"
+                },
+                "posttime": 1683166757438,
+                "count": 0,
+                "title": "长隆野生动物世界",
+                "author": "青争",
+                "content": "今天的天气并不好，从白虎自助餐出来后，外面已经零星下起雨来，酒店的穿梭BUS就在白虎自助餐厅边上，我们赶在早上九点前去排队，这样可以早一点到动物园去租辆婴儿车，来到排队处已经很多人在排队，抱着木儿就快速的冲进排队道，木总这个时候还是挺不乖的，因为他总是想去酒店里做电梯，我的小活祖"
+            },
+            {
+                "_id": {
+                    "$oid": "6453163df43e60d7b66cc605"
+                },
+                "posttime": 1683166781205,
+                "count": 0,
+                "title": "进景区第一时间排队坐小火车40分钟左右游览动物园的精华部分，猛兽区。能节省很多排队时间",
+                "author": "去哪儿用户",
+                "content": "#好货满满的动物园游记攻略# 图片全是干货，没有园区实景图，你们去一次，景色都能看到，就不分享了。\n\n做了N多的功课，亲身体验后总结经验 时间是2018.08.07游园。\n\n地铁3/7号线，到长隆下车，E出口出站，图3那里坐免费接驳车，到动物园南门 1号站台下车，原地左侧转2号站"
+            },
+            {
+                "_id": {
+                    "$oid": "64531656f5cf3a2df4e3ce76"
+                },
+                "posttime": 1683166806870,
+                "count": 6,
+                "title": "...广州市番禺区,是全世界动物种类最多、最大的5A级野生动物主题公园,也是来广州旅游必去的景点之一",
+                "author": "大wing同学",
+                "content": "长隆野生动物世界位于广州市番禺区,是全世界动物种类最多、最大的5A级野生动物主题公园,也是来广州旅游必去的景点之一。园区分为自驾车游览区和步行游览区两大部分,前者位于园区西半部,是国内首创的原生态自驾车游览区,以野生动物的大规模放养为主要特色,游客可以开着自己的爱车,不出国门就能"
+            },
+            {
+                "_id": {
+                    "$oid": "6453166ef43e60d7b66cdcb7"
+                },
+                "posttime": 1683166830932,
+                "count": 24,
+                "title": "F我们选择了野生动物园和大马戏两个园区，比较适合小童游玩，鳄鱼公园不太推荐。但人太多还是作罢",
+                "author": "Fann_Von",
+                "content": "广州长隆度假区一共有5个园区，分别是长隆欢乐世界、长隆香江野生动物园、长隆水上乐园、长隆大马戏和长隆鳄鱼公园。\n\n我们选择了野生动物园和大马戏两个园区，比较适合小童游玩，鳄鱼公园不太推荐。\n\n先来说说长隆香江野生动物园，我们是租车自驾去野生动物园的，完全避免了去挤园区内提供的免费"
+            }
+        ],
+        "schema": {
+            "bsonType": "object",
+            "required": [],
+            "permission": {
+                "read": false,
+                "create": false,
+                "update": false,
+                "delete": false
+            },
+            "properties": {
+                "_id": {
+                    "description": "ID，系统自动生成"
+                }
+            }
+        }
+    },
+    "buy": {
+        "data": [],
+        "schema": {
+            "bsonType": "object",
+            "required": [],
+            "permission": {
+                "read": false,
+                "create": false,
+                "update": false,
+                "delete": false
+            },
+            "properties": {
+                "_id": {
+                    "description": "ID，系统自动生成"
+                }
+            }
+        }
+    },
+    "loginres": {
+        "data": [
+            {
+                "_id": {
+                    "$oid": "64524633f5cf3a2df4b4f8fd"
+                },
+                "token": "aimer1115"
+            }
+        ],
+        "schema": {
+            "bsonType": "object",
+            "required": [],
+            "permission": {
+                "read": false,
+                "create": false,
+                "update": false,
+                "delete": false
+            },
+            "properties": {
+                "_id": {
+                    "description": "ID，系统自动生成"
+                }
+            }
+        }
+    },
+    "recommend": {
+        "data": [
+            {
+                "_id": {
+                    "$oid": "6445f0f7f43e60d7b6f807fd"
+                },
+                "rec_image": "https://mp-5392bf61-a3ed-4d48-af07-8fe53e9551c3.cdn.bspapp.com/cloudstorage/bf1ec656-b184-421c-8973-a6c7669948f1.jpg",
+                "scen_id": {
+                    "$oid": "644931b8e1a35c371b53bdfc"
+                }
+            },
+            {
+                "_id": {
+                    "$oid": "6445f12ce1a35c371b519336"
+                },
+                "rec_image": "https://mp-5392bf61-a3ed-4d48-af07-8fe53e9551c3.cdn.bspapp.com/cloudstorage/3caf3385-149c-4e55-b6a7-b1cee7a67932.jpg",
+                "scen_id": {
+                    "$oid": "644931b8e1a35c371b53bdfc"
+                }
+            },
+            {
+                "_id": {
+                    "$oid": "6445f16f09e29891982e0835"
+                },
+                "rec_image": "https://mp-5392bf61-a3ed-4d48-af07-8fe53e9551c3.cdn.bspapp.com/cloudstorage/aea559ee-0f08-4149-98b3-21b46acdf1a8.jpg",
+                "scen_id": {
+                    "$oid": "644931b8e1a35c371b53bdfc"
+                }
+            }
+        ],
+        "schema": {
+            "bsonType": "object",
+            "required": [],
+            "permission": {
+                "read": false,
+                "create": false,
+                "update": false,
+                "delete": false
+            },
+            "properties": {
+                "_id": {
+                    "description": "ID，系统自动生成"
+                }
+            }
+        }
+    },
+    "scen_detail": {
+        "data": [
+            {
+                "_id": {
+                    "$oid": "644931b8e1a35c371b53bdfc"
+                },
+                "tit": "123",
+                "swiper": [
+                    "https://mp-5392bf61-a3ed-4d48-af07-8fe53e9551c3.cdn.bspapp.com/cloudstorage/aae53a49-a8f7-4484-95b8-9ac938534744.jpg",
+                    "https://mp-5392bf61-a3ed-4d48-af07-8fe53e9551c3.cdn.bspapp.com/cloudstorage/bf1ec656-b184-421c-8973-a6c7669948f1.jpg",
+                    "https://mp-5392bf61-a3ed-4d48-af07-8fe53e9551c3.cdn.bspapp.com/cloudstorage/db1b0b5e-6d17-4090-a34b-5c0dd8bca1c3.jpg"
+                ],
+                "title": "上海迪士尼度假区",
+                "address": "上海市浦东新区川沙新镇黄赵路310号",
+                "time": "周四~周二",
+                "desc": "上海迪士尼度假区位于上海浦东新区，是中国内地第一个迪士尼度假区，你可以在此亲历许多迪士尼乐园的经典项目，包括较大的迪士尼城堡、以海盗为主题的园区、较长的迪士尼花车巡游路线等，身临其境地感受神奇王国。",
+                "traffic": "公交\n乘坐公交1036路在【赵行村】站下车即到。\n乘坐浦东11号线、南川线到【新川路妙镜路】站下车，前行200米即可到达。\n\n地铁\n搭乘地铁11号线的终点站【迪士尼站】下车，2口出。\n\n出租\n便捷的出租车，能将您送往坐落于上海迪士尼度假区中心地区的交通枢纽。\n\n自驾\n可驾车行驶至内环高架路，然后前行6.5公里进入张江立交桥，之后沿路标进入罗山路，行驶5.6公里走上中环路，接下来进入华夏高架路，再根据路牌驶进新川路后可到达。驱车前往上海迪士尼度假区，白天可把车停放在位置优越的停车场，距离上海迪士尼乐园、迪士尼小镇和度假区内的酒店仅举步之遥，可搭乘迪士尼度假区穿梭巴士或步行抵达。",
+                "other": "1、为保证顺利入园，请携带以下材料在乐园主入口入园：购票时登记的身份证件原件/旅游证件原件及购票凭证\n2、为保障您在所有主题乐园内度过一个安全、愉快的假期，我们禁止在上海迪士尼乐园使用自拍杆。\n3、乐园开放时间和个别游乐设施可能会因恶劣天气条件而受到影响，尤其是在六月至九月的雨季期间。请随时查看，以了解风暴警报、乐园封闭情况及更多信息。",
+                "type": "1",
+                "count": 130,
+                "love": 3,
+                "ticket": 150,
+                "ticketinfo": "单人票价：150￥\n双人票价：300￥"
+            },
+            {
+                "_id": {
+                    "$oid": "6452f99d0c801ca878aa1581"
+                },
+                "posttime": 1683159453466,
+                "swiper": [
+                    "https://mp-5392bf61-a3ed-4d48-af07-8fe53e9551c3.cdn.bspapp.com/cloudstorage/4cacb4da-4066-4cc9-bbe4-b463a9592ee0.jpg",
+                    "https://mp-5392bf61-a3ed-4d48-af07-8fe53e9551c3.cdn.bspapp.com/cloudstorage/89c5bcbb-0982-49e2-a73f-9ce3bf413839.jpg",
+                    "https://mp-5392bf61-a3ed-4d48-af07-8fe53e9551c3.cdn.bspapp.com/cloudstorage/af4289da-71f9-4f2d-969f-244b4df4e668.jpg"
+                ],
+                "count": 0,
+                "title": "武康路",
+                "time": "全年 全天开放",
+                "type": "3",
+                "ticket": "",
+                "ticketinfo": "",
+                "desc": "漫步在这条有着百年历史的老路上，两旁的古树郁郁葱葱，不时可以看到散落路边的欧式建筑。武康大楼是武康路的标志性建筑，由有名的匈牙利建筑师邬达克设计。大楼通体的红色砖墙、转角挑阳台、三角形古典山花窗楣等，颇有法国文艺复兴时期的韵味。武康大楼造型犹如一艘等待起航的巨轮，所以也不难理解它",
+                "address": "上海市徐汇区武康路与湖南路交叉口",
+                "traffic": "【公交】\n市内可搭乘48路、328路、548路至【华山路长乐路】下车步行前往即可。\n【地铁】\n乘坐地铁10、11号线至交通大学站下。",
+                "other": "每一座老宅都有自己的故事，值得花上半天以上时间细细品味。"
+            },
+            {
+                "_id": {
+                    "$oid": "6452fa5928064a7587e0046a"
+                },
+                "posttime": 1683159641877,
+                "swiper": [
+                    "https://mp-5392bf61-a3ed-4d48-af07-8fe53e9551c3.cdn.bspapp.com/cloudstorage/f996639a-fc01-4eb5-bf6e-3cbc0530f56e.jpg",
+                    "https://mp-5392bf61-a3ed-4d48-af07-8fe53e9551c3.cdn.bspapp.com/cloudstorage/cbf714ab-09f2-478b-8123-34ec11bf2fa1.jpg",
+                    "https://mp-5392bf61-a3ed-4d48-af07-8fe53e9551c3.cdn.bspapp.com/cloudstorage/5469c4c6-b282-499b-b07b-62e0167ea5dc.jpg"
+                ],
+                "count": 10,
+                "title": "上海自然博物馆",
+                "time": "周一 全天不开放",
+                "type": "3",
+                "ticket": "30",
+                "ticketinfo": "上海自然博物馆单人票：30元",
+                "desc": "上海自然博物馆位于静安雕塑公园，场馆宛如一只“绿螺”，外观独特。如今的新馆内展出了上万件标本藏品，内容丰富，尤其以一副体长约26米的中加马门溪龙的骨架甚是抢眼。",
+                "address": "上海市静安区北京西路510号（静安雕塑公园内）",
+                "traffic": "地铁：乘坐地铁1号线至新闸路站，地铁2号线至南京西路站（2号口出站），地铁13号至线自然博物馆站（1号口出站）。\n\n公交：北京西路成都北路（324路），石门二路山海关路（41路，301路，324路，927路），石门二路北京西路（104路），北京西路泰兴路（15路，955路）等。",
+                "other": "没有地下停车场，请开车的游客提前找好停车场。"
+            },
+            {
+                "_id": {
+                    "$oid": "6453004cf5cf3a2df4dbcfcc"
+                },
+                "posttime": 1683161164528,
+                "swiper": [
+                    "https://mp-5392bf61-a3ed-4d48-af07-8fe53e9551c3.cdn.bspapp.com/cloudstorage/cd8c99dc-837b-4a2d-9b1b-710515069667.jpg",
+                    "https://mp-5392bf61-a3ed-4d48-af07-8fe53e9551c3.cdn.bspapp.com/cloudstorage/e4c3336d-be41-4578-a9fe-771001f58a0c.jpg",
+                    "https://mp-5392bf61-a3ed-4d48-af07-8fe53e9551c3.cdn.bspapp.com/cloudstorage/d3aeeee0-fe8e-4713-ad7d-e8a6e593e1bf.jpg"
+                ],
+                "count": 2,
+                "title": "都江堰景区",
+                "time": "3月8日正式恢复开放： 08：00-17：00",
+                "type": "2",
+                "ticket": "80",
+                "ticketinfo": "成人票80元",
+                "desc": "都江堰景区，位于都江堰市城西岷江干流上，由秦国蜀郡太守李冰及其子于西元前256年左右修建，是目前中国保存完整的古代水利工程。工程由鱼嘴分水堤、飞沙堰溢洪道、宝瓶口引水口三大主体工程和百丈堤、人字堤等附属工程构成，把汹涌的岷江分隔成外江和內江，外江排洪，內江引水灌溉，使川西平原成为",
+                "address": "成都市都江堰市公园路",
+                "traffic": "市域快铁\n成都火车站-茶店子客运站-都江堰。每天6：30就有发班，19：00收班。\n\n火车\n成都北站乘火车至都江堰，票价15元/人，下车后需乘坐公交车至都江堰，成都北站至离堆公园站，票价15元/人，离堆公园站可步行至都江堰。\n\n公交\n成都西门车站乘旅游专线车至【都江堰】站下车，此",
+                "other": "1、都江堰山清水秀、气候宜人。但512大地震，将都江堰美景撕裂大半。都江堰的城区和景区一些建筑上，贴有“危险”或“可使用”标志，请远离不安全的场所，在安全的地方用餐、休息。\n2、夏季到访都江堰可以参加消夏夜啤酒节。\n3、清明节当天会举行盛大的放水节。"
+            },
+            {
+                "_id": {
+                    "$oid": "645300b10c801ca878ac1379"
+                },
+                "posttime": 1683161265759,
+                "swiper": [
+                    "https://mp-5392bf61-a3ed-4d48-af07-8fe53e9551c3.cdn.bspapp.com/cloudstorage/8e7b1b84-34c1-426c-9c5d-b0c864f4dac8.jpg",
+                    "https://mp-5392bf61-a3ed-4d48-af07-8fe53e9551c3.cdn.bspapp.com/cloudstorage/2515acf2-1a4d-459a-a6be-b2e249e205da.jpg",
+                    "https://mp-5392bf61-a3ed-4d48-af07-8fe53e9551c3.cdn.bspapp.com/cloudstorage/1d93ef61-ec00-4bf6-9c4c-588513b4a9fe.jpg"
+                ],
+                "count": 0,
+                "title": "青城山",
+                "time": "08:00-17:00;",
+                "type": "3",
+                "ticket": "80",
+                "ticketinfo": "前山80元；",
+                "desc": "青城山自古素有“青城天下幽”的美誉，分前山和后山两部分，前山是青城山的主体，道教文化、文物古迹多集中这里，这里也是一般游客口中的“青城山”；后山以自然风光取胜，是度假休闲的好去处。",
+                "address": "都江堰市西南部青城山风景区",
+                "traffic": "自驾\n从成都出发经成灌高速经都江堰市到青城山，约50分钟。\n\n公交\n成都【西门车站】乘旅游专线车，都江堰市区内乘101路。\n【都江堰市客运中心】乘坐101路直达车到青城山，路程30分钟。或打车过去，约40元。青城山到青城后山只需乘中巴或出租车过去，十元左右。",
+                "other": "1、请注意早晚温差，要带好衣物。\n\n2、尽量轻装去爬山，以减轻负荷。\n\n3、爬山是尽量穿着宽松舒适的衣物以及运动鞋。"
+            },
+            {
+                "_id": {
+                    "$oid": "6453010e09e29891989bab9f"
+                },
+                "posttime": 1683161358601,
+                "swiper": [],
+                "count": 2,
+                "title": "赵公山",
+                "time": "全年 全天开放",
+                "type": "2",
+                "ticket": "100",
+                "ticketinfo": "具体收费情况以景区现场公示为主。",
+                "desc": "赵公山传说中是赵公明元帅的归隐处。这里距离成都市区约70公里，山中有很多高山杜鹃和桂花林，如今这里是户外爱好者理想的登山地。",
+                "address": "都江堰市西南、成都平原西北部",
+                "traffic": "",
+                "other": "赵公山为未开发的野山，所以上山的路都是泥巴路。 相对于同是“野山”的牛背山而言，赵公山的路更陡，牛背山是坡路套平路，难度较小，海拔上升慢，而赵公山几乎全是坡路，海拔直线上升。"
+            },
+            {
+                "_id": {
+                    "$oid": "6453015d09e29891989bc2c0"
+                },
+                "posttime": 1683161437921,
+                "swiper": [
+                    "https://mp-5392bf61-a3ed-4d48-af07-8fe53e9551c3.cdn.bspapp.com/cloudstorage/77ee866d-f0f2-4209-ad8f-d217a69e20d8.jpg",
+                    "https://mp-5392bf61-a3ed-4d48-af07-8fe53e9551c3.cdn.bspapp.com/cloudstorage/7c9f0491-7d0f-47c3-bcb7-59bbd9826e2e.jpg",
+                    "https://mp-5392bf61-a3ed-4d48-af07-8fe53e9551c3.cdn.bspapp.com/cloudstorage/cfc59159-24f7-42d0-89d0-365cf81cad03.jpg"
+                ],
+                "count": 6,
+                "title": "1九眼桥",
+                "time": "全年 全天开放",
+                "type": "1",
+                "ticket": "",
+                "ticketinfo": "",
+                "desc": "九眼桥，位于四川音乐学院附近，是成都知名的酒吧一条街，古典风格的廊桥很漂亮，桥的建成年代现在已经无从考证。九眼桥周边有大量的酒吧、餐厅、茶馆等休闲场所，晚上非常的热闹，充斥着前来泡吧的游人。夜晚的九眼桥，在灯光的衬托下，更加的炫目。",
+                "address": "成都市武侯区望江路上",
+                "traffic": "四季皆宜。",
+                "other": "九眼桥虽说四季都适合游玩，但最佳体验是从夜幕降临时才真正开始的."
+            },
+            {
+                "_id": {
+                    "$oid": "6453032e0c801ca878accf05"
+                },
+                "posttime": 1683161902817,
+                "swiper": [
+                    "https://mp-5392bf61-a3ed-4d48-af07-8fe53e9551c3.cdn.bspapp.com/cloudstorage/d3a5c71f-62b5-4229-8f38-11b7b9094c05.jpg",
+                    "https://mp-5392bf61-a3ed-4d48-af07-8fe53e9551c3.cdn.bspapp.com/cloudstorage/73afa4e6-9a6a-425e-b6dc-7302be2c31f4.jpg",
+                    "https://mp-5392bf61-a3ed-4d48-af07-8fe53e9551c3.cdn.bspapp.com/cloudstorage/6df1f978-a0f3-4c42-a886-1e8ed2c8bcd8.jpg"
+                ],
+                "count": 6,
+                "title": "锦里古街",
+                "time": "全天开放",
+                "type": "3",
+                "ticket": "",
+                "ticketinfo": "",
+                "desc": "锦里古街是成都知名的商业步行街，由一大片清末建筑风格的仿古建筑组成，拥有众多民居、酒吧、餐饮名店，有名的景点武侯祠也在其中。",
+                "address": "成都市武侯区武侯祠大街231号",
+                "traffic": "公交\n乘1路、10路、57路、82路、301路、334路、335路、521路到【武侯祠】站下车即到。\n地铁\n搭乘地铁3号线至【高升桥】站下车，步行武侯祠大街600-800米就可以到达",
+                "other": "四季皆宜，但游览锦里尽量错过夜间高峰期或者节假日，每逢节假日一定是人山人海。"
+            },
+            {
+                "_id": {
+                    "$oid": "6453039509e29891989c67da"
+                },
+                "posttime": 1683162006068,
+                "swiper": [
+                    "https://mp-5392bf61-a3ed-4d48-af07-8fe53e9551c3.cdn.bspapp.com/cloudstorage/21f4eb44-02ab-4c70-b8e1-c8a31c003f42.jpg",
+                    "https://mp-5392bf61-a3ed-4d48-af07-8fe53e9551c3.cdn.bspapp.com/cloudstorage/a26bc98e-76c6-422d-a311-2c8bea5ed6ef.jpg",
+                    "https://mp-5392bf61-a3ed-4d48-af07-8fe53e9551c3.cdn.bspapp.com/cloudstorage/cb5e8030-cc53-4568-8096-85bab392baca.jpg"
+                ],
+                "count": 0,
+                "title": "成都天台山",
+                "time": "全年 全天开放",
+                "type": "2",
+                "ticket": "58",
+                "ticketinfo": "018年10月1日起，门票最高限价降低为58元/人·次",
+                "desc": "成都天台山位于邛崃市境内，距成都约110公里。这里是大熊猫栖息地，林木茂密，清溪瀑布随处可见。山中的花石林，是一片露于地表的灰质砾岩，经亿万年的地质变化而形成，形态各异，毫不逊于云南石林。",
+                "address": "成都市邛崃市天台山镇马坪村",
+                "traffic": "大巴\n\n1、成都金沙车站乘汽车经成温邛高速公路约30分钟可到达邛崃。\n\n2、成都城北客运中心(火车北站)、石羊场中心站经新津沿新邛路到邛崃，从邛崃旅游客运中心站乘车约50分钟可到达天台山。\n\n3、成都新南门车站每天8:00和9:30有旅游专列可直达天台山景区。绵阳、雅安、乐山有直",
+                "other": "1、景区观光车直接上山，并且上山只能在游客中心搭乘观光车，景区大门的观光车只下山不上山。\n\n2、天台山景区森林覆盖率达到94%，夏季晚上经常下雨并且空气凉爽，宜多准备衣物防寒保暖。\n\n3、天台山主要以避暑玩水为主，需要玩水请准备一套换洗的衣物。"
+            },
+            {
+                "_id": {
+                    "$oid": "645303f409e29891989c8905"
+                },
+                "posttime": 1683162101007,
+                "swiper": [
+                    "https://mp-5392bf61-a3ed-4d48-af07-8fe53e9551c3.cdn.bspapp.com/cloudstorage/f7af5afd-6887-42a9-b667-f42c3b6e7c82.jpg",
+                    "https://mp-5392bf61-a3ed-4d48-af07-8fe53e9551c3.cdn.bspapp.com/cloudstorage/9fe36ed4-bffa-4134-8755-2ff9ba75bf63.jpg",
+                    "https://mp-5392bf61-a3ed-4d48-af07-8fe53e9551c3.cdn.bspapp.com/cloudstorage/279163d9-9f3b-4bf5-8740-cbac936ad468.jpg"
+                ],
+                "count": 0,
+                "title": "四川科技馆",
+                "time": "周一闭馆",
+                "type": "1",
+                "ticket": "58",
+                "ticketinfo": "参观票+人工讲解+无线耳麦 深度感知人与自然的奥秘",
+                "desc": "四川科技馆是一个好玩又长知识的地方，位于成都市中心天府广场的北侧，共四层。科技馆包括20多个常设展厅和3个主题展览，常设展厅分别为航空航天展区、机械展区、虚拟世界展区、机器人展区、天地万象展区、信息科技展区、生命科学展区、生态与环境展区等。",
+                "address": "成都市青羊区人民中路一段16号省展览馆内(天府广场北侧)",
+                "traffic": "乘坐地铁1、2号线至天府广场下，步行过人民东路，即可到达。或乘坐16路、机场专线2号线至人民中路一段下。",
+                "other": ""
+            },
+            {
+                "_id": {
+                    "$oid": "64530a65f5cf3a2df4df14ad"
+                },
+                "posttime": 1683163749221,
+                "count": 0,
+                "title": "10九眼桥",
+                "time": "全年 全天开放",
+                "type": "1",
+                "ticket": "",
+                "ticketinfo": "",
+                "desc": "九眼桥，位于四川音乐学院附近，是成都知名的酒吧一条街，古典风格的廊桥很漂亮，桥的建成年代现在已经无从考证。九眼桥周边有大量的酒吧、餐厅、茶馆等休闲场所，晚上非常的热闹，充斥着前来泡吧的游人。夜晚的九眼桥，在灯光的衬托下，更加的炫目。",
+                "address": "成都市武侯区望江路上",
+                "traffic": "四季皆宜。",
+                "other": "九眼桥虽说四季都适合游玩，但最佳体验是从夜幕降临时才真正开始的."
+            },
+            {
+                "_id": {
+                    "$oid": "645312e1e1a35c371bc49020"
+                },
+                "posttime": 1683165921439,
+                "count": 0,
+                "title": "长隆野生动物世界",
+                "author": "ikun",
+                "content": "进景区第一时间排队坐小火车40分钟左右游览动物园的精华部分，猛兽区。能节省很多排队时间"
+            }
+        ],
+        "schema": {
+            "bsonType": "object",
+            "required": [],
+            "permission": {
+                "read": false,
+                "create": false,
+                "update": false,
+                "delete": false
+            },
+            "properties": {
+                "_id": {
+                    "description": "ID，系统自动生成"
+                }
+            }
+        }
+    },
+    "star": {
+        "data": [],
+        "schema": {
+            "bsonType": "object",
+            "required": [],
+            "permission": {
+                "read": false,
+                "create": false,
+                "update": false,
+                "delete": false
+            },
+            "properties": {
+                "_id": {
+                    "description": "ID，系统自动生成"
+                }
+            }
+        }
+    },
+    "type": {
+        "data": [
+            {
+                "_id": {
+                    "$oid": "64518d47f5cf3a2df47d52aa"
+                },
+                "type": 0,
+                "mame": "热门推荐",
+                "name": "热门推荐"
+            },
+            {
+                "_id": {
+                    "$oid": "64518e8228064a758783b1a3"
+                },
+                "type": 2,
+                "mame": "山水名胜",
+                "name": "山水名胜"
+            },
+            {
+                "_id": {
+                    "$oid": "64518e98e1a35c371b5fc063"
+                },
+                "type": 3,
+                "mame": "历史古迹",
+                "name": "历史古迹"
+            },
+            {
+                "_id": {
+                    "$oid": "64518ecb0c801ca8784e01bb"
+                },
+                "type": 1,
+                "mame": "网红景区",
+                "name": "网红景区"
+            }
+        ],
+        "schema": {
+            "bsonType": "object",
+            "required": [],
+            "permission": {
+                "read": false,
+                "create": false,
+                "update": false,
+                "delete": false
+            },
+            "properties": {
+                "_id": {
+                    "description": "ID，系统自动生成"
+                }
+            }
+        }
+    },
+    "users": {
+        "data": [
+            {
+                "_id": {
+                    "$oid": "643d31510c801c2ac94d8f50"
+                },
+                "name": "晚會活",
+                "gender": "男",
+                "tel": 4151515,
+                "age": 66
+            },
+            {
+                "_id": {
+                    "$oid": "643df2d9f43e603fbef906c8"
+                },
+                "name": "awd",
+                "hemder": "男",
+                "tel": 1313131123,
+                "mail": "156136161@161.com",
+                "age": 30
+            },
+            {
+                "_id": {
+                    "$oid": "64526007e766bb0085d7a12f"
+                }
+            }
+        ],
+        "schema": {
+            "bsonType": "object",
+            "required": [],
+            "permission": {
+                "read": false,
+                "create": false,
+                "update": false,
+                "delete": false
+            },
+            "properties": {
+                "_id": {
+                    "description": "ID，系统自动生成"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "推荐攻略",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "my-search": "/components/my-search/my-search",
+    "uni-dateformat": "/uni_modules/uni-dateformat/components/uni-dateformat/uni-dateformat"
+  }
+}

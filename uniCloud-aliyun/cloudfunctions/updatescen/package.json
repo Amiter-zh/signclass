@@ -1,0 +1,7 @@
+{
+  "name": "updatescen",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

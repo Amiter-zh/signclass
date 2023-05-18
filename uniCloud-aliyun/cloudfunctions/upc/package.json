@@ -1,0 +1,7 @@
+{
+  "name": "upc",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

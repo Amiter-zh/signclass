@@ -1,0 +1,113 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+.my {
+  background-color: #e6e6e6;
+}
+.upside {
+  background-image: linear-gradient(#00C176, #08dc64);
+  height: 250rpx;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  overflow: hidden;
+  border-bottom-right-radius: 80rpx;
+}
+.upside .user-bar {
+  width: 95%;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding-left: 40rpx;
+  z-index: 9999;
+}
+.upside .user-bar .avatar {
+  height: 120rpx;
+  width: 120rpx;
+  border: 0rpx;
+  font-size: 80rpx;
+  border-radius: 50%;
+  background-color: #f8f8f8;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.upside .user-bar .avatar image {
+  height: 70rpx;
+  width: 70rpx;
+}
+.upside .user-bar .detail {
+  width: 500rpx;
+  margin-left: 0rpx;
+  margin-right: 40rpx;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  color: #fff;
+  box-sizing: border-box;
+}
+.upside .user-bar .detail .name {
+  width: 100%;
+  font-size: 42rpx;
+  font-weight: bold;
+  color: #fff;
+}
+.upside .user-bar .detail .desc {
+  padding-top: 25rpx;
+  width: 100%;
+  font-size: 30rpx;
+  margin-top: 15rpx;
+  color: #fff;
+}
+.down {
+  background-color: #fff;
+  box-sizing: border-box;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-top: 10rpx;
+  margin-top: 20rpx;
+}
+.down .item {
+  padding: 10rpx 10rpx;
+  height: 80rpx;
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1rpx solid #e5e5e5;
+}
+.down .item .content {
+  font-size: 36rpx;
+  justify-content: center;
+}
+.down .item .content .text-black {
+  padding-left: 10rpx;
+}
+.but {
+  background-color: #fff;
+  box-sizing: border-box;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-top: 10rpx;
+  margin-top: 30rpx;
+}
+.but .item {
+  padding: 10rpx 10rpx;
+  height: 80rpx;
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1rpx solid #e5e5e5;
+}
+.but .item .content {
+  font-size: 36rpx;
+  justify-content: center;
+}
+.but .item .content .text-black {
+  padding-left: 10rpx;
+}
+

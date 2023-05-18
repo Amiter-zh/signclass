@@ -1,0 +1,66 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+.album-list {
+  margin-top: 10rpx;
+  background-color: #fff;
+  width: 100%;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-wrap: wrap;
+  padding: 0 20rpx;
+}
+.album-list .item {
+  display: flex;
+  flex-direction: column;
+  padding: 10rpx 15rpx 10rpx;
+}
+.album-list .item .item-inner .attention {
+  color: #1fd04b;
+}
+.searchbox {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  z-index: 999;
+}
+.home .content {
+  padding: 5rpx 5px;
+}
+.home .content .item {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 10rpx;
+  border-bottom: #888 solid 1rpx;
+}
+.home .content .item .text {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.home .content .item .text .title {
+  font-size: 40rpx;
+  color: #333;
+  overflow: hidden;
+  -webkit-line-clamp: 2;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+}
+.home .content .item .text .info {
+  font-size: 28rpx;
+  color: #888;
+  display: flex;
+  justify-content: space-between;
+}
+.home .content .item .pic {
+  height: 180rpx;
+  width: 260rpx;
+}
+.home .content .item .pic image {
+  width: 95%;
+  height: 95%;
+}
+
